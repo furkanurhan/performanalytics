@@ -1,0 +1,22 @@
+{
+  "name": "performanalytics",
+  "version": "1.0.0",
+  "description": "Performance Analytics for websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkanurhan/perfanaltytics.git"
+  },
+  "keywords": [
+    "performance"
+  ],
+  "author": "Furkan URHAN <urhanfurkan35@gmail.com> (https://furkanurhan.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furkanurhan/perfanaltytics/issues"
+  },
+  "homepage": "https://github.com/furkanurhan/perfanaltytics#readme"
+}
